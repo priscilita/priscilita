@@ -16,4 +16,3 @@ Here are some ideas to get you started:
 -->
 
 
-<iframe src="https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:6842140347120791553" height="708" width="504" frameborder="0" allowfullscreen="" title="Publicación integrada"></iframe>
