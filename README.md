@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 
 
-<img align="left" src="https://raw.githubusercontent.com/priscilita/priscilita/main/Captura%20de%20Pantalla%202021-09-27%20a%20la(s)%2021.26.08.png" />
-<img align="left" src="https://raw.githubusercontent.com/priscilita/priscilita/main/Captura%20de%20Pantalla%202021-09-27%20a%20la(s)%2021.24.00.png" />
-<img align="left" src="https://raw.githubusercontent.com/priscilita/priscilita/main/Captura%20de%20Pantalla%202021-09-27%20a%20la(s)%2021.25.01.png" />
+<img align="left" width="200" src="https://raw.githubusercontent.com/priscilita/priscilita/main/Captura%20de%20Pantalla%202021-09-27%20a%20la(s)%2021.26.08.png" />
+<img align="left" width="200" src="https://raw.githubusercontent.com/priscilita/priscilita/main/Captura%20de%20Pantalla%202021-09-27%20a%20la(s)%2021.24.00.png" />
+<img align="left" width="200" src="https://raw.githubusercontent.com/priscilita/priscilita/main/Captura%20de%20Pantalla%202021-09-27%20a%20la(s)%2021.25.01.png" />
 
